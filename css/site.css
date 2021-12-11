@@ -30,9 +30,19 @@ footer .social>a{
     opacity:0.75;
 }
 
-footer .social>a:hover{
+footer .linkedin>a:hover{
     opacity: 0.9;
-    color: var(--secondary-color);
+    color: #1163bf;
+}
+
+footer .github>a:hover{
+    opacity: 0.9;
+    color: #7a319a;
+}
+
+footer .twitter>a:hover{
+    opacity: 0.9;
+    color: #1da1f3;
 }
 
 .bsicon{
@@ -49,6 +59,18 @@ footer .social>a:hover{
 
 .cssicon{
     color:rgb(11,82,214);
+}
+
+.color-linkedInBlue {
+    color: #1163bf
+}
+
+.color-gitHubPurple {
+    color: #7a319a
+}
+
+.color-twitterBlue {
+    color: #1da1f3
 }
 
 .checklist >li i{
